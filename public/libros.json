@@ -1,0 +1,46 @@
+[
+  
+  {
+    "id": 1,
+    "title": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "image": "https://pics.filmaffinity.com/cien_anos_de_soledad-606630216-mmed.jpg",
+    "price": 45000
+  },
+  {
+    "id": 2,
+    "title": "El Alquimista",
+    "author": "Paulo Coelho",
+    "image": "https://intelecto.com.co/cdn/shop/files/el-alquimista_9789584242075_grande.jpg?v=1697639114",
+    "price": 20000
+
+  },
+  {
+    "id": 3,
+    "title": "El Fantasma de Canterville",
+    "author": "Oscar Wilde",
+    "image": "/canterville.png",
+    "price": 22000
+  },{
+    "id": 4,
+    "title": "El Coronel no tiene quien le escriba",
+    "author": "Gabriel García Márquez",
+    "image": "el coronel.jpg",
+    "price": 30000
+  },
+  {
+    "id": 5,
+    "title": "Pantaleon y las visitadoras",
+    "author": "Paulo Coelho",
+    "image": "pantaleon.jpg",
+    "price": 36000  
+  },
+  {
+    "id": 6,
+    "title": "Mi confesion",
+    "author": "Carlos Castaño Gil",
+    "image": "mi confesion.jpg",
+    "price": 18000
+  }
+  
+]

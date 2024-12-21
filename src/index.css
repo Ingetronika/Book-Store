@@ -1,0 +1,28 @@
+body {
+  background-image: url('https://example.com/your-image.jpg');  /* URL de tu imagen */
+  background-size: cover;  /* Asegura que la imagen cubra toda la pantalla */
+  background-position: center;  /* Centra la imagen */
+  color: white;  /* Asegura que el texto sea visible */
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #f8f8f8;
+}
+
+header a {
+  text-decoration: none;
+  color: #333;
+}
+
+input {
+  padding: 5px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}

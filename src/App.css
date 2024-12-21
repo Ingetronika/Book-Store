@@ -1,0 +1,28 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+img {
+  margin-left: 10px;
+  border-radius: 5px;
+}
+/* src/App.css */
+footer a:hover {
+  color: #ff6347;  /* Cambia el color al pasar el ratón sobre los iconos */
+}
